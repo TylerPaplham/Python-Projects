@@ -1,5 +1,5 @@
 # Python-Projects
-#work in progress...
+A collection of various Python projects.
 
 ## Keylogger
 Simple Python key logger that sends log files via email every day.
