@@ -23,7 +23,6 @@ Under your Gmail account go to **Security** and turn on **Less secure app access
 In Windows type **Windows_key+R** then **shell:startup**. In this new window drag and drop your keylogger script.
 
 ![image](https://user-images.githubusercontent.com/70701922/140437834-e3f34e13-115f-4c41-8c37-3553afe25417.png)
----
 
 
-
+Done! 
