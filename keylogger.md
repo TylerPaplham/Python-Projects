@@ -7,7 +7,7 @@ This script copies victims keystrokes and inputs it into a log file. From here i
 
 ---
 #### Update Variables
-Prior to running the script you'll need to update:
+Prior to running the script you'll need to update the below variables in the [keylogger script](/keylogger.py):
 - **s_email** to your senders email
 - **s_pwd** to your senders password
 - **r_email** to your recipients email
