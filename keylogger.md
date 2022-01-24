@@ -1,5 +1,5 @@
 # Python Keylogger
-**Disclaimer:** this project is for education purposes only! I'm not responsible for any unethical use of my code.
+**Disclaimer:** This project is for education purposes only! I'm not responsible for any unethical use of my code.
 
 This script copies the victim's keystrokes and inputs them into a log file. From here, it sends an email every day with the log file attached.
 
